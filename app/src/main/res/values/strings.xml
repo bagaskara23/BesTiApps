@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BesTi</string>
+    <string name="logosplash">Logo</string>
+
+    <string name="title_intro_1">Buang Sampah Pada Tempatnya</string>
+    <string name="title_intro_2">Klasifikasikan Jenis Sampah</string>
+    <string name="title_intro_3">Ketahui Sampah yang dapat di daur ulang</string>
+    <string name="title_intro_4">Bumi pun Terselamatkan!</string>
+    <string name="desc_intro_1">Apabila sampah dibuang tidak pada tempatnya dan sembarangan, sampah-sampah ini akan merusak pemandangan dan mengotori tempat tinggal.</string>
+    <string name="desc_intro_2">Pilah sampah rumah tangga berdasarkan sifatnya, organik atau anorganik, untuk memudahkan pengolahannya.</string>
+    <string name="desc_intro_3">Bahan seperti sampah plastik, botol, dan kertas merupakan bahan daur ulang terbaik yang bisa digunakan. Limbah ini tidak dapat diuraikan oleh bakteri dan karenanya tidak dapat dimusnahkan di dalam tanah.</string>
+    <string name="desc_intro_4">Dengan mendaur ulang sampah yang susah terurai, hal ini dapat membantu kita menyelamatkan bumi.</string>
+    <string name="start_now">Ayo Mulai</string>
+    <string name="imageView">Image View</string>
+    <string name="title_login_page">BesTi (Bebas Sampah Setiap Hari!)</string>
+    <string name="message_login_page">Masukkan dulu datamu ya!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="copyright">\@ 2022 BesTi</string>
+    <string name="login">Masuk</string>
+    <string name="daftar">Buat Akun Baru</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="username">Username</string>
+    <string name="signup">Daftar</string>
+    <string name="phone">No. Hp</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="profession">Profesi</string>
+    <string name="Photo">Foto</string>
+    <string name="Education">Edukasi</string>
+    <string name="Selengkapnya">Selengkapnya</string>
+    <string name="Gusti">Gusti</string>
+    <string name="id">1721000001</string>
+    <string name="BeritaTerbaru">Berita Terbaru</string>
+</resources>
